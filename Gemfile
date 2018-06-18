@@ -15,4 +15,5 @@ gem 'sequel'
 gem 'rack-app'
 # Ruby gem for building Telegram Bot
 gem 'telegram-bot'
-
+# Images and stuff
+gem 'cloudinary'
